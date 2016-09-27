@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4499CA6B-AF42-12D5-579C-AEE582A33224}") = "TimedPokemonViewer", "Assembly-CSharp.csproj", "{1566DC3C-02C3-B889-0B22-38DC2573B7B7}"
+EndProject
+Project("{4499CA6B-AF42-12D5-579C-AEE582A33224}") = "TimedPokemonViewer", "Assembly-CSharp-Editor.csproj", "{A3992115-D485-1F67-B1CE-EB0C2BBF87C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1566DC3C-02C3-B889-0B22-38DC2573B7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1566DC3C-02C3-B889-0B22-38DC2573B7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1566DC3C-02C3-B889-0B22-38DC2573B7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1566DC3C-02C3-B889-0B22-38DC2573B7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3992115-D485-1F67-B1CE-EB0C2BBF87C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3992115-D485-1F67-B1CE-EB0C2BBF87C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3992115-D485-1F67-B1CE-EB0C2BBF87C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3992115-D485-1F67-B1CE-EB0C2BBF87C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
